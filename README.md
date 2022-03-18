@@ -7,7 +7,7 @@ this was a mod i made a while back but i lost access to my account in which the 
 
 it pretty basic, if you're running it in a seperate IDE (idk why but ok) just do:
 
-`git clone https://github.com/PinkishOxygen/FNF-SilverXDirt
+```git clone https://github.com/PinkishOxygen/FNF-SilverXDirt```
 
 the run
 
