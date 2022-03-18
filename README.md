@@ -9,7 +9,9 @@ it pretty basic, if you're running it in a seperate IDE (idk why but ok) just do
 
 ```git clone https://github.com/PinkishOxygen/FNF-SilverXDirt```
 
-the run
+then run the code
+
+another alternative is using my link in which I have made.
 
 # Credit
 
