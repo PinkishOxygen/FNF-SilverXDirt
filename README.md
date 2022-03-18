@@ -6,7 +6,8 @@ this was a mod i made a while back but i lost access to my account in which the 
 # How to Run
 
 it pretty basic, if you're running it in a seperate IDE (idk why but ok) just do:
-git clone https://github.com/PinkishOxygen/FNF-SilverXDirt
+```json
+`git clone https://github.com/PinkishOxygen/FNF-SilverXDirt
 
 the run
 
