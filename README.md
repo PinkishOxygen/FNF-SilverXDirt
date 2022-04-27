@@ -13,6 +13,8 @@ then run the code
 
 another alternative is using my link in which I have made.
 
+edit: i test the 'git clone' thing on replit, it creates a folder with all the files so in order for it to work you're going to need to drag the files out of the 'FNF-SilverXDirt' folder
+
 # Credit
 
 all rights goes to the original creator of Firday Night Funkin 
